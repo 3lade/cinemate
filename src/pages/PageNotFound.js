@@ -6,7 +6,7 @@ import { Button } from "../components";
 export const PageNotFound = () => {
 
   useEffect(() => {
-    document.title = `Page Not Found / Cinemate`;
+    document.title = `Page Not Found / yesh's cinemate`;
   });
 
   return (
